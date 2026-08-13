@@ -55,15 +55,3 @@ def health() -> dict:
 
 
 
-
-
-it config --global user.email "YOUR_GITHUB_EMAIL"
-
-git add .
-git commit -m "Initial commit"
-
-git branch -M main
-
-git remote add origin https://github.com/YOUR_USERNAME/AIVOA-complaints.git
-
-git push -u origin main

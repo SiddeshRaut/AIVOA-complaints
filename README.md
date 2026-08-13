@@ -10,7 +10,7 @@ Built for the AIVOA.AI Round 1 AI Product Engineer take-home assignment.
 
 ## Stack
 
-- **Frontend**: React + Redux Toolkit (RTK Query), Vite, TypeScript, Tailwind CSS, Google Inter
+- **Frontend**: React + Redux Toolkit (RTK Query), Vite, TypeScript, Tailwind CSS
 - **Backend**: FastAPI, SQLAlchemy + Alembic
 - **AI agent framework**: LangGraph (extraction graph + chat graph)
 - **LLM**: Groq — `llama-3.1-8b-instant` for extraction, `llama-3.3-70b-versatile` for risk classification and chat
@@ -71,7 +71,7 @@ use "Paste Complaint Text / Email" and paste in any of the `.txt`/`.eml` content
 
 - **Extraction pipeline** (`backend/app/agents/extraction_graph.py`): a LangGraph
   `StateGraph` — `preprocess_document → extract_fields → completeness_check →
-  risk_classification → duplicate_check`. `extract_fields` uses strict JSON-schema
+risk_classification → duplicate_check`. `extract_fields` uses strict JSON-schema
   prompting + Pydantic validation with a bounded retry loop (small/fast Groq models don't
   reliably support native tool-calling on Groq). The "fields fill in one at a time"
   effect in the UI is the API staggering emission of the already-complete result
@@ -91,7 +91,7 @@ use "Paste Complaint Text / Email" and paste in any of the `.txt`/`.eml` content
 
 ## Project layout
 
-```
+```text
 backend/    FastAPI app, LangGraph agents, SQLAlchemy models, Alembic migrations
 frontend/   React + Redux Toolkit UI (Vite)
 sample_data/documents/   Sample pharma complaint documents for demoing upload

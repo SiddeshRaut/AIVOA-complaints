@@ -1,0 +1,28 @@
+Complaint submitted via Distributor Portal
+
+Customer: Apex Pharma Distributors Inc.
+Contact: procurement@apexpharmadist.com
+Submitted: 2026-08-02
+
+Product: Metformin HCl 500mg Tablets
+Batch/Lot Number: MET-2026-0510
+Manufacturing Date: 2026-04-12
+Expiry Date: 2028-04-11
+Quantity Affected: 800 units (full carton)
+
+Complaint Type: Counterfeit Suspicion
+
+Description:
+During a routine incoming stock audit, our warehouse team flagged one carton from
+this shipment for inconsistent packaging quality. The outer carton print appears
+slightly duller than our reference samples, and the tamper-evident seal has a
+visibly different texture. Tablet appearance inside matches expected specifications,
+but given the packaging inconsistencies we are unable to confirm authenticity and
+have quarantined the entire carton pending your verification.
+
+We request confirmation of this batch's legitimacy against your production records
+and guidance on next steps, including whether a recall notice is warranted for any
+other shipments from the same distribution run.
+
+This is considered high priority given the potential brand and patient safety
+implications of counterfeit product in the supply chain.

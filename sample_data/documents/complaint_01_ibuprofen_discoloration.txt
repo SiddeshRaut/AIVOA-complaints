@@ -1,0 +1,33 @@
+From: qa.manager@wellcare-pharmacy.com
+To: complaints@aivoa-pharma.com
+Subject: Product Quality Complaint - Ibuprofen 200mg Tablets, Batch IBU-2026-0456
+Date: 2026-08-05
+
+Dear Quality Assurance Team,
+
+We are writing to formally report a product quality issue identified during routine
+incoming inspection at our pharmacy.
+
+Product: Ibuprofen 200mg Tablets
+Batch/Lot Number: IBU-2026-0456
+Manufacturing Date: 2025-11-01
+Expiry Date: 2027-10-31
+Quantity Affected: 120 tablets
+
+During inspection of the received shipment, our pharmacist observed that 15 tablets
+within one bottle (out of a total of 120 tablets affected across the batch) exhibited
+unusual yellow discoloration compared to the expected off-white color typical of this
+product. The tablets otherwise appeared physically intact with no visible cracking or
+foreign matter.
+
+This complaint was raised via our customer portal on 2026-08-10 following internal
+review. We are requesting a formal quality investigation into this batch and would
+appreciate guidance on whether the remaining stock should be quarantined pending your
+findings.
+
+Please treat this as a standard quality deviation report; we do not believe there is
+an immediate patient safety risk, but request confirmation from your QA team.
+
+Regards,
+Priya Nair
+QA Manager, Wellcare Pharmacy

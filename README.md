@@ -116,3 +116,66 @@ cd frontend
 npm install
 npm run dev
 ```
+## 👤 Owner
+
+**Project Owner:** Siddesh Raut  
+**Project:** AIVOA Complaint Management System  
+**Purpose:** AIVOA.AI Round 1 – AI Product Engineer Take-Home Assignment
+
+This project was developed by **Siddesh Raut** as part of the AIVOA.AI AI Product Engineer evaluation. The project demonstrates AI-powered complaint extraction, risk classification, completeness checking, duplicate detection, and document-grounded chat.
+
+---
+
+## 📄 License
+
+**MIT License**
+
+Copyright (c) 2026 Siddesh Raut
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Third-Party Licenses
+
+This project uses third-party open-source technologies, including:
+
+- React
+- TypeScript
+- Vite
+- Redux Toolkit
+- Tailwind CSS
+- FastAPI
+- SQLAlchemy
+- Alembic
+- LangGraph
+- Groq
+- MySQL
+- RapidFuzz
+- Docker
+
+Each third-party dependency remains subject to its respective license and
+copyright terms.
+
+### AI Model Notice
+
+This project uses AI models hosted through **Groq**. Model availability,
+usage, and licensing are subject to the respective provider's terms and
+conditions.
+
+The project does not claim ownership of any third-party AI models,
+frameworks, libraries, or services used in this application.
